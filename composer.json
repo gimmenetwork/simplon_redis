@@ -1,6 +1,6 @@
 {
-  "name": "simplon/redis",
-  "description": "Simplon Redis - phpredis wrapper",
+  "name": "gimmenetwork/simplon_redis",
+  "description": "[FORK] Simplon Redis - phpredis wrapper",
   "homepage": "https://github.com/fightbulc/simplon_redis",
   "type": "library",
   "keywords": [
